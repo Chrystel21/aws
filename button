@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+  <title>Welcome to Amazon Linux 2</title>
+  <style rel="stylesheet" type="text/css">
+    body {
+      font-family: "Arial", sans-serif;
+      margin: 10% auto;
+      text-align: center;
+      background-color: #f7f1e3; /* Nude color for body */
+      color: #333333;
+      max-width: 800px;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      font-size: 2.5em;
+      text-shadow: 2px 2px 2px #ccc;
+      margin-bottom: 20px;
+      color: #6d214f; /* Deep mauve color for heading */
+    }
+
+    p {
+      font-size: 1.2em;
+      color: #444444;
+      line-height: 1.6;
+      margin-bottom: 15px;
+    }
+
+    a {
+      color: #8e44ad; /* Amethyst color for links */
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 10px;
+      border: 2px solid #8e44ad;
+      border-radius: 5px;
+      background-color: #8e44ad;
+      color: #ffffff;
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    .signature {
+      margin-top: 40px;
+      font-style: italic;
+      color: #777777;
+    }
+
+    .textbox {
+      width: 60%;
+      margin: 20px auto;
+      padding: 10px;
+      border: 1px solid #8e44ad;
+      border-radius: 5px;
+      background-color: #f0ebf4; /* Lavender blush color for textbox */
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Experience the Power of Amazon Linux 2</h1>
+
+  <p>Welcome to the world of Amazon Linux 2, where performance meets reliability. Thank you for choosing <a href="https://aws.amazon.com/amazon-linux-2/">Amazon Linux 2</a> for your cloud adventures.</p>
+
+  <p>Now that you have it installed, stay updated with the latest announcements and engage in insightful discussions on <a href="https://forums.aws.amazon.com/forum.jspa?forumID=228">the AWS Discussion Forums</a>. Dive into the details with the comprehensive <a href="https://aws.amazon.com/documentation/">AWS documentation</a>.</p>
+
+  <div class="textbox">
+    <p>Feel free to explore and experiment with Amazon Linux 2! If you have any questions or need assistance, don't hesitate to reach out.</p>
+  </div>
+
+  <div class="button" onclick="window.location.href='https://aws.amazon.com/amazon-linux-2/'">Amazon Linux</div>
+  <div class="button" onclick="window.location.href='https://forums.aws.amazon.com/forum.jspa?forumID=228'">Discussion Forums</div>
+  <div class="button" onclick="window.location.href='https://aws.amazon.com/documentation/'">Documentation</div>
+
+  <p class="signature">Best regards,<br/>Chrystel Ann Villacorta</p>
+
+</body>
+
+</html>
